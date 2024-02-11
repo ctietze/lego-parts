@@ -1,0 +1,4 @@
+- **Title** Geniale Projekte mit deinen LEGO-Steinen
+- **Author** Sarah Dees
+- **Publisher** Schwager & Steinlein (17. März 2021)
+- **ISBN-13** 978-3849918286

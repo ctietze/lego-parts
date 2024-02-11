@@ -1,0 +1,4 @@
+- **Title** Roboter - 30 Ideen mit LEGO®-Steinen
+- **Author** Kevin Hall
+- **Publisher** Bassermann Verlag
+- **ISBN-13** 978-3809440451
